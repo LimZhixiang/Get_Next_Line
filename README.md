@@ -6,7 +6,7 @@
 1. [About the Project](#about-the-project)
 2. [Built-With](#built-with)
 3. [Key Concepets Covered](#key-concepts-covered)
-4. [Features](#features)
+4. [Usage](#usage)
 5. [Installation](#installation)
 
 ## About the Project
